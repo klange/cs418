@@ -1,21 +1,18 @@
 # Springy, Bouncy Block Is
 
-# Invocation
+## Invocation
 
 	make
 	./mp4 [-s n]
 
-	-s
-		Set scene scale (default is 1.0)
+* `-s` Set scene scale (default is 1.0)
 
-# Keyboard Controls
+## Keyboard Controls
 
-	ESC
-		Quit the application.
-	p
-		Pause / unpause camera
+* `ESC` Quit the application.
+* `p` Pause / unpause camera
 
-# Mouse
+## Mouse
 
-	Mouse movement controls the light position
+Mouse movement controls the light position
 
