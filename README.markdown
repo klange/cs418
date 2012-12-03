@@ -32,4 +32,4 @@ This is a repo of my MP submissions from the Fall 2011 semester of UIUC's CS 418
     
 ## To TAs in CS418
 
-This course is largely based on creative of students. I make it a point to open source as much of my school work as possible and will not respond to requests to remove this repository. Unlike many other courses, the contents of this repository are entirely my own work and the University of Illinois maintains no license on them, implied or otherwise. Additionallity, it is your job as a TA to ensure that students do not cheat by copying code verbatim or without proper attribution.
+This course is largely based on the creativity of students. I make it a point to open source as much of my school work as possible and will not respond to requests to remove this repository. Unlike many other courses, the contents of this repository are entirely my own work and the University of Illinois maintains no license on them, implied or otherwise. Additionallity, it is your job as a TA to ensure that students do not cheat by copying code verbatim or without proper attribution.
