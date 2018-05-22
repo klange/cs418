@@ -520,12 +520,10 @@ void init(char * object, char * diffuse, char * sphere) {
 
 	/* Check for errors */
 	GLenum glErr;
-	int    retCode = 0;
 	glErr = glGetError();
 	while (glErr != GL_NO_ERROR)
 	{
 		printf("glError: %s\n", gluErrorString(glErr));
-		retCode = 1;
 		glErr = glGetError();
 	}
 

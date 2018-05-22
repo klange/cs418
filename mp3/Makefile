@@ -5,7 +5,7 @@ clean:
 	rm  -f mp3 mp3-rgba
 
 mp3: mp3.c
-	clang -Wall -o mp3 mp3.c -lGLEW -lglut -lGLU -lGL
+	$(CC) -Wall -o mp3 mp3.c -lGLEW -lglut -lGLU -lGL -lm
 
 mp3-rgba: mp3-rgba.c
-	clang -Wall -o mp3-rgba mp3-rgba.c -lXi -lXrender -lGLEW -lglut -lGLU -lGL
+	$(CC) -Wall -o mp3-rgba mp3-rgba.c -lX11 -lXi -lXrender -lGLEW -lglut -lGLU -lGL -lm
